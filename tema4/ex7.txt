@@ -1,0 +1,1 @@
+P_zgomot = 10 dB
